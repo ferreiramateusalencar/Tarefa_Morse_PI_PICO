@@ -63,8 +63,9 @@ Imagens do projeto:
 ### Rodando o projeto
 
 1. Abra o arquivo `diagram.json` no Wokwi.
-2. Execute o código no simulador.
-3. Observe o comportamento do LED, que deve piscar em conformidade com o padrão SOS descrito acima.
+2. Aperte `F1` ou `CTRL + SHIFT + P` (ou `CMD + SHIFT + P` no MacOS) e digita *"Wokwi: Start Simulator"*
+3. Execute o código no simulador.
+4. Observe o comportamento do LED, que deve piscar em conformidade com o padrão SOS descrito acima.
 
 Para mais detalhes sobre configuração e depuração no Wokwi com VSCode, consulte:
 - [Configuração do Projeto](https://docs.wokwi.com/pt-BR/vscode/project-config#wokwitoml)
