@@ -10,10 +10,10 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Layout Repositório Github](#-layout-repositorio-github)
-   * [Funcionalidades](#-Funcionalidades)
+   * [Layout Repositório Github](#-layout-repositório-github)
+   * [Funcionalidades](#%EF%B8%8F-funcionalidades)
    * [Como executar o projeto](#-como-executar-o-projeto)
-     * [Pré-requisitos](#-pré-requisitos)
+     * [Pré-requisitos](#pré-requisitos)
    * [Tecnologias](#-tecnologias)
    * [Contribuidores](#-contribuidores)
    * [Licença](#-licença)
