@@ -90,7 +90,7 @@ Mentor: MANOEL MESSIAS DA SILVA JUNIOR
 
 ## 📄 Licença
 
-Este projeto está sob a licença do SUBGRUPO 3 e seu Lider de Projeto da Formação Básica em Software Embarcado da Embarcatech - Veja o arquivo <a href="https://github.com/ferreiramateusalencar/Tarefa_Morse_PI_PICO/blob/main/License.md">License.md<a/>
+Este projeto está sob a licença do discente Mateus Alencar Ferreira do Projeto da Formação Básica em Software Embarcado da Embarcatech - Veja o arquivo <a href="https://github.com/ferreiramateusalencar/Tarefa_Morse_PI_PICO/blob/main/License.md">License.md<a/>
 
 
 ---
