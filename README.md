@@ -23,6 +23,9 @@ Tabela de conteúdos
 
 Este projeto consiste em utilizar um LED externo conectado ao Raspberry Pi Pico W para transmitir o sinal SOS em código Morse, seguindo as especificações fornecidas na atividade prática.
 
+Projeto desenvolvido durante o curso de Formação Básica em Software Embarcado oferecido pela [Embarcatech](https://embarcatech.softex.br).
+A Formação Básica em Software Embarcado da Embarcatech é um programa de capacitação profissional técnica destinado a alunos de nível superior e técnico em Tecnologias da Informação e Comunicação (TIC) e áreas correlatas, focado em tecnologias de Sistemas Embarcados.
+
 ## 🎨 Layout Repositório Github
 
 - `src/` - Contém o código fonte em C++.
@@ -35,14 +38,15 @@ Este projeto consiste em utilizar um LED externo conectado ao Raspberry Pi Pico 
 ### Demonstração Visual
 
 Imagens do projeto:
-- ![Imagem 1](assets/image/sketch_hex.png)
-- ![Imagem 2](assets/image/diagram_json.png)
-- ![Imagem 3](assets/image/wokwi_toml.png)
-- ![Imagem 4](assets/image/assets_launch_json.png)
-
+- <img src="assets/image/sketch_hex.png" width="400px">
+- <img src="assets/image/diagram_json.png" width="400px">
+- <img src="assets/image/wokwi_toml.png" width="400px">
+- <img src="assets/image/assets_launch_json.png" width="400px">
 
 Demonstração do projeto em funcionamento:
-- ![Demonstração do Projeto](assets/gif/example.gif)
+- ![Demonstração do Projeto]:
+- <img src="assets/gif/example.gif" width="400px">
+
 
 ## ⚙️ Funcionalidades
 
