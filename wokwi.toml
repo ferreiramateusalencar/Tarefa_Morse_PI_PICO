@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'sketch.hex'
+elf = 'path-to-your-firmware.elf'
+gdbServerPort=3333

@@ -1,0 +1,43 @@
+const int ledPin = 11;
+
+void setup() {
+    pinMode(ledPin, OUTPUT);
+    digitalWrite(ledPin, LOW);
+}
+
+void loop() {
+    messageSOS();
+    delay(3000);
+}
+
+void messageSOS() {
+    for (int i = 0; i < 3; i++) {
+        morseDot();
+    }
+
+    delay(250);
+
+    for (int i = 0; i < 3; i++) {
+        morseDash();
+    }
+
+    delay(250);
+
+    for (int i = 0; i < 3; i++) {
+        morseDot();
+    }
+}
+
+void morseDot() {
+    digitalWrite(ledPin, HIGH);
+    delay(200);
+    digitalWrite(ledPin, LOW);
+    delay(125);
+}
+
+void morseDash() {
+    digitalWrite(ledPin, HIGH);
+    delay(800);
+    digitalWrite(ledPin, LOW);
+    delay(125);
+}
