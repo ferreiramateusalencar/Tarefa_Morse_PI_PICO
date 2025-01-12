@@ -43,8 +43,7 @@ Imagens do projeto:
 - <img src="assets/image/wokwi_toml.png" width="400px">
 - <img src="assets/image/assets_launch_json.png" width="400px">
 
-Demonstração do projeto em funcionamento:
-- ![Demonstração do Projeto]:
+#### Demonstração do projeto em funcionamento:
 - <img src="assets/gif/example.gif" width="400px">
 
 
