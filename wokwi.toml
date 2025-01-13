@@ -1,5 +1,5 @@
 [wokwi]
 version = 1
 firmware = 'sketch.hex'
-elf = 'sketch.hex'
+elf = 'sketch.elf'
 gdbServerPort=3333
